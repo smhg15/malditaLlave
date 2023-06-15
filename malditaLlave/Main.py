@@ -59,11 +59,3 @@ key_generator_button.pack()
 
 #LOOP
 windows.mainloop()
-
-
-
-#TESTING ZONE
-# key_generator()
-# print(keyBook)
-# key_generator()
-# print(keyBook)
